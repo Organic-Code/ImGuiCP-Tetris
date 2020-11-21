@@ -34,7 +34,7 @@ add_executable(imgui_coding_party___tetris imdrawlist_party.cpp main.cpp)
 
 set_target_properties(
         imgui_coding_party___tetris PROPERTIES
-        CXX_STANDARD 11
+        CXX_STANDARD 98
         CXX_STANDARD_REQUIRED ON
         CXX_EXTENSIONS OFF
 )
